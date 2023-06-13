@@ -1,0 +1,357 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "NQUEENALL",
+            "request": "launch",
+            "mainClass": "BACKTRACKING.NQUEENALL",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "NQUEENS",
+            "request": "launch",
+            "mainClass": "BACKTRACKING.NQUEENS",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "AllPermutations",
+            "request": "launch",
+            "mainClass": "PERMUTATIONS.AllPermutations",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "CountSubSequenceSumEqualToK",
+            "request": "launch",
+            "mainClass": "SUBSEQUENCE.CountSubSequenceSumEqualToK",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "SingleSubSequenceEqualToK",
+            "request": "launch",
+            "mainClass": "SUBSEQUENCE.SingleSubSequenceEqualToK",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "AllSubSequenceEqualToK",
+            "request": "launch",
+            "mainClass": "SUBSEQUENCE.AllSubSequenceEqualToK",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "SubSequenceEqualToK",
+            "request": "launch",
+            "mainClass": "SUBSEQUENCE.SubSequenceEqualToK",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "AllSubSequence",
+            "request": "launch",
+            "mainClass": "SUBSEQUENCE.AllSubSequence",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Basic",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Submit.Main",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListImplimentation",
+            "request": "launch",
+            "mainClass": "Stack.Implementations.LinkedListImplimentation",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayImplementation",
+            "request": "launch",
+            "mainClass": "Stack.Implementations.ArrayImplementation",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch BracketsCheck",
+            "request": "launch",
+            "mainClass": "Stack.BracketsCheck",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch gauri",
+            "request": "launch",
+            "mainClass": "Sorting.gauri",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch HeinghtOfTree",
+            "request": "launch",
+            "mainClass": "MyTree.HeinghtOfTree",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tree",
+            "request": "launch",
+            "mainClass": "MyTree.Tree",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayPermutation",
+            "request": "launch",
+            "mainClass": "Permutation.ArrayPermutation",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringPermutation",
+            "request": "launch",
+            "mainClass": "Permutation.StringPermutation",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraySubSet",
+            "request": "launch",
+            "mainClass": "SubSet.ArraySubSet",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringSubset2",
+            "request": "launch",
+            "mainClass": "SubSet.StringSubset2",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch SkipString",
+            "request": "launch",
+            "mainClass": "Recursion.SkipString",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveChar",
+            "request": "launch",
+            "mainClass": "Recursion.RemoveChar",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch subit",
+            "request": "launch",
+            "mainClass": "LEETCODE.subit",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringSubset",
+            "request": "launch",
+            "mainClass": "Recursion.StringSubset",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "Sorting.QuickSort",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSortRecur",
+            "request": "launch",
+            "mainClass": "Recursion.SelectionSortRecur",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSortRecur",
+            "request": "launch",
+            "mainClass": "Recursion.BubbleSortRecur",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternREcur",
+            "request": "launch",
+            "mainClass": "Recursion.PatternREcur",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotatedBinarySearchRecur",
+            "request": "launch",
+            "mainClass": "Recursion.RotatedBinarySearchRecur",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearSearchRecur",
+            "request": "launch",
+            "mainClass": "Recursion.LinearSearchRecur",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckForSort",
+            "request": "launch",
+            "mainClass": "Recursion.CheckForSort",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseNumber",
+            "request": "launch",
+            "mainClass": "Recursion.ReverseNumber",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearchRecur",
+            "request": "launch",
+            "mainClass": "Searching.BinarySearchRecur",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "Sorting.MergeSort",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircularLL_Example",
+            "request": "launch",
+            "mainClass": "My_LinkedList.CircularLL_Example",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch DLL_Example",
+            "request": "launch",
+            "mainClass": "My_LinkedList.DLL_Example",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "My_LinkedList.Main",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericMethod",
+            "request": "launch",
+            "mainClass": "Generics.GenericMethod",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericsDemo1",
+            "request": "launch",
+            "mainClass": "Generics.GenericsDemo1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericsDemo2",
+            "request": "launch",
+            "mainClass": "Generics.GenericsDemo2",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericsDemo4",
+            "request": "launch",
+            "mainClass": "Generics.GenericsDemo4",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericsDemo5",
+            "request": "launch",
+            "mainClass": "Generics.GenericsDemo5",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "LEETCODE.Solution",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch CyclicSort",
+            "request": "launch",
+            "mainClass": "Sorting.CyclicSort",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "Sorting.InsertionSort",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "Sorting.SelectionSort",
+            "projectName": "Java_3df404fa"
+        }
+    ]
+}
